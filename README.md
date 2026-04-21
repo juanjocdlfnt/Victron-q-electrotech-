@@ -1,0 +1,2 @@
+Victron elements zip file contains new QElectroTech elements used to make multifilar diagrams of photovoltaic systems with Victron components, including inverter/chargers (multiplus II and Easysolar II) as well as MPPT chargers, SPD, etc.
+SBS zip file contains all Victron elements mentioned above plus the most common elements used to build the diagram (so no need to constantly look for items in a huge library, which is time consuming)
